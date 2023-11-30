@@ -9,7 +9,7 @@ An interactive aim trainer game built using Pygame.
 - [Installation](#installation)
 - [Usage](#usage)
 - [Screenshots](#screenshots)
-- [Contributing](#contributions)
+- [Contributions](#contributions)
 
 ## About
 
