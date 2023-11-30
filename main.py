@@ -18,7 +18,7 @@ targets = [(random.randint(50, 1390), random.randint(50, 850)) for _ in range(3)
 
 # Initialize the timer
 start_time = time.time()
-timer_duration = 10  # 100 seconds
+timer_duration = 100  # 100 seconds
 game_over = False
 show_play_again_button = False  # Initially, do not show the "Play Again" button
 
